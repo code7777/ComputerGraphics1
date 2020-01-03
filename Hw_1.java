@@ -1,7 +1,6 @@
 /*
       Course: CS 45500
       Name: Preston Porter
-      Email: porter31@pnw.edu
       Assignment: 1
 
 */
